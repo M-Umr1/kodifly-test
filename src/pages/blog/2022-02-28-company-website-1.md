@@ -6,10 +6,12 @@ description: This blog is bout company website
 featuredpost: true
 featuredimage: /img/art-image.jpg
 tags:
-  - kodifly
-  - AIAcademy
+  - blogblog
+  - blog
 ---
-![what is this?]()
+
+
+![what is this? where it is shown]( "where is the image title")
 
 I am thrilled to be the part of company website creation
 
