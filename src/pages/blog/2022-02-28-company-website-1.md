@@ -9,9 +9,16 @@ tags:
   - blogblog
   - blog
 ---
-
-
 ![what is this? where it is shown]( "where is the image title")
+
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello World!";
+    return 0;
+}
+```
 
 I am thrilled to be the part of company website creation
 
